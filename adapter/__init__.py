@@ -1,0 +1,1 @@
+from .build_adapter import build_adapter_from_cfg
