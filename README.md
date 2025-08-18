@@ -1,4 +1,4 @@
-# Code for paper "Embracing Large Language Models in Traffic Flow Forecasting" accepted by ACL 2025 as Findings
+# Code for paper "Embracing Large Language Models in Traffic Flow Forecasting" accepted by ACL 2025
 
 ## TL;DR
 
